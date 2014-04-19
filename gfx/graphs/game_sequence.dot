@@ -1,0 +1,47 @@
+digraph Game {
+
+	label = "Game Sequence"
+
+	subgraph cluster_round {
+			style=filled;
+			color=lightgrey;
+			node [style=filled]
+			label = "Round Sequence";
+			not_empty [color=green]
+			empty [color=red]
+			draw_event -> not_empty
+			draw_event -> empty
+	}
+
+	subgraph cluster_turn {
+		style=filled;
+		color=lightgrey;
+		node [style=filled,color=white];
+		black_market [shape=diamond];
+		supply -> market -> black_market -> restock -> character_power -> end_turn;
+		label = "Turn Sequence";
+	}
+
+	subgraph cluster_next_round {
+			style = filled;
+			color = grey;
+			label = "Next Round?"
+			all_players_had_turns -> yes
+			all_players_had_turns -> no
+	}
+
+	start -> populate_dragons_nest;
+	populate_dragons_nest -> deal_merchant_kings;
+	deal_merchant_kings -> populate_market_place;
+	populate_market_place -> resolve_and_place_initiative_badge;
+	resolve_and_place_initiative_badge -> draw_event;
+	not_empty -> supply;
+	empty -> end;
+	end_turn -> all_players_had_turns;
+	no -> supply;
+	yes -> move_initiative_badge;
+	move_initiative_badge -> draw_event;
+
+	start [shape=Mdiamond];
+	end [shape=Msquare];
+}
