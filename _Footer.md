@@ -1,1 +1,1 @@
-[Home](/Home) | [Cards](/cards/index) | [Contributors](/Contributors) | [Cheatsheet](/Cheatsheet)
+[Home](/Home) | [Rules](/rules/index) | [Cards](/cards/index) | [Cheatsheet](/Cheatsheet) | [Contributors](/Contributors)
