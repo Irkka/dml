@@ -1,22 +1,77 @@
-## Kings
+## Dragon Eggs
 
-### Slave King
+### The Aces
+The most prized posessions of the Chromatic Dragon kind.
 
-### Spice King
+## Characters
 
-### Iron King
+### The Kings
 
-### Wood King
+#### 🂾 Slave King
 
-## Queens
+#### 🃎 Spice King
 
-## Jacks
+#### 🂮 Iron King
 
-### 🂻 Troublesome Blabbermouth
+#### 🃞 Wood King
 
-### 🃋 Goods Swindler
+### The Queens
 
-### 🂫 Grand Inquisitor
+#### 🂽 Mother of Dragons
 
-### 🃛 Asset Liquidator
+#### 🃍 Archduchess of Avarice
 
+#### 🂭 Dragon Empress of Khitamar
+
+#### 🃝 Bitch Queen of Smorgon
+
+### The Jacks
+
+#### 🂻 Troublesome Blabbermouth
+
+#### 🃋 Goods Swindler
+
+#### 🂫 Grand Inquisitor
+
+#### 🃛 Asset Acquisitor
+
+## Resources
+ 
+### Guild Houses
+
+#### 🂺 Slave Guild
+
+#### 🃊 Spice Guild
+
+#### 🂪 Iron Guild
+
+#### 🃚 Wood Guild
+
+### Goods
+
+#### 🂲-🂹 Slaves
+
+#### 🃂-🃉 Spice
+
+#### 🂢-🂩 Iron
+
+#### 🃒-🃙 Wood
+
+## Global Events & Special Cards
+
+### Events
+
+#### 🂲-🂹 Decadence
+
+#### 🃂-🃉 Tax Relief
+
+#### 🂢-🂩 Looters]
+
+#### 🃒-🃙 Supply Shortage
+
+
+### The Jokers
+
+#### 🃟 Foreign Merchant
+
+#### 🃏 Thief
