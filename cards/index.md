@@ -1,7 +1,7 @@
 ## Dragon Eggs
 
 ### The Aces
-The most prized posessions of the Chromatic Dragon kind.
+The most prized possessions of the Chromatic Dragon kind.
 
 ## Characters
 
