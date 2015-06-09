@@ -56,7 +56,7 @@ Ultimate Power: Initiate Dragon Siege.
 
 #### 🃝 Harlot Queen of Smorgon
 
-Ultimate Power: Nullify all Character Powers before Harlot Queen of Smorgon in the Character Power Queue.
+Ultimate Power: Nullify all Character Powers and put all Character Cards to Exile below Harlot Queen of Smorgon in the Character Power Stack.
 
 **I'm too busy to fuck. Fucking is what I'm busy doing.**
 
