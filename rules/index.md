@@ -54,6 +54,8 @@ In the game of Dragon's Money Laundering a deck of regular playing cards is used
   * The Active Player may choose to forfeit his/her Market Phase and subsequently gain an additional Black Market Phase
   * If the Player doesn't forfeit his/her Market Phase, initiate Market Sequence
 4. Black Market Phase
+  * The Active Player may choose to forfeit his/her Black Market Phase
+  * If the Player doesn't forfeit his/her Black Market Phase, initiate Black Market Sequence
 5. Restock Phase
 6. Second Character Power Phase
   * Player's may play Character Ultimate Power's or Emblems as defined by Character Power Sequence
@@ -90,6 +92,17 @@ The Target Value of an Acquisition Attempt is the combined face values of the Re
 4. The Active Player performs an Acquisition Roll against the Target Value
   * If the Active Player succeeds, the Active Player may put the set of Resources involved in the Acquisition Attempt in to the Active Player's Treasury
   * If the Active Player fails, the Passive Player may put the set of Resources involved in the Acquisition Attempt in to the Passive Player's Treasury
+5. All bid Resources are put to the Market Place
+
+###### Black Market Sequence
+
+The default Target Value of any Black Market is 7.
+
+1. The Active Player chooses a Black Market
+2. The Active Player may choose to declare a modifier no greater than the number of cards in the Active Player's Treasury
+3. The Active Player rolls 2D6 against the Black Market Target Value
+  * If the Active Player succeeds, the Active Player may take one card at random from the chosen Black Market. If the Active Player declared a modifier, the Active Player has to put that many cards of his/her choice in to the Black Market excluding the card the Active Player was awarded from that Black Market
+  * If the Active Player fails, the Active Player is awarded no card and has to put cards equal to the declared modifier number at random from his/her Treasury in to the chosen Black Market
 
 ## The Dice
 
