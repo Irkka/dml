@@ -124,27 +124,27 @@ Victory Points: modified face value
 
 #### 🂲-🂹 Decadence
 
-If the number of cards in Player's Treasury is equal to or more than the face value of the Global Event card, the Player can't make any Seize Attempts during the Round.
+Players can't play Character Ultimate Powers. However, if the number of cards in Player's Treasury is less than the face value of the Active Global Event card, the Player may choose to ignore this effect.
 
-If any Black Market's number of cards is equal to or more than the face value of the Global Event card, any attempt to procure items from that Black Market receives a -2 modifier to the roll.
+Resources that have a face value more than or equal to the face value of the Active Global Event card can't be bid on any Acquisition Attempts or Seize Attempts.
 
 #### 🃂-🃉 Tax Relief
 
 If the number of cards in Player's Treasury is less than the face value of the Global Event card, the Player receives an extra Market Phase during his/her turn.
 
-All Resources in the Market Place with face value of more than or equal to the Global Event card receive a -2 modifier to their value until the end of Round.
+All Resources in the Market Place with face value of more than or equal to the Global Event card receive a -2 modifier to their Target Value until the end of Round.
 
-#### 🂢-🂩 Looters
+#### 🂢-🂩 Contraband Crackdown
 
-If the number of cards in Player's Treasury is equal to or more than the face value of the Global Event card, the Player puts a card from the Player's Treasury at random to the Dragon's Hoard.
+Players can't make any Seize Attempts. However, if the number of cards in Player's Treasury is less than the face value of the Active Global Event card, the Player may choose to ignore this effect.
 
-If any Black Market's number of cards is less than the face value of the Global Event card, any attempt to procure items from that Black Market receives a +2 modifier to the roll.
+Each bid Resource that has a face value equal to or more than the Active Global Event card is put to Dragon's Hoard instead of the Market Place after the Acquisition Roll.
 
-#### 🃒-🃙 Supply Shortage
+#### 🃒-🃙 Marauders
 
-If the number of cards in Player's Treasury is less than the face value of the Global Event, the Player receives a +2 modifier to rolls on any Black Market.
+Each Player discards a card at random and puts it in to the Dragon's Hoard. However, if the number of cards in Player's Treasury is less than the face value of the Active Global Event card, the Player may ignore this effect.
 
-All Resources in the Market Place with face value of more than or equal to the Global Event card receive a +2 modifier to their value until end of Round.
+All Resources in the Market Place with face value of more than or equal to the Active Global Event card receive a +2 modifier to their Target Value until end of Round.
 
 #### * All Bets Are Off
 
