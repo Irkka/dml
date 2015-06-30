@@ -36,7 +36,7 @@ Static Bonus: +2 to corresponding Resource Type
 
 Victory Points: -
 
-#### 🂽 Mother of Dragons
+#### 🂽 Pampered Heiress of *
 
 Ultimate Power: Player may search the Dragon's Nest and put any one Dragon's Egg into one's Treasury if possible.
 
