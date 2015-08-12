@@ -1,12 +1,14 @@
-## Contributors
+# Contributors
 
-*Inspired by the original idea of 4 young drunken men.*
+The making of Dragon's Money Laundering started many a year ago. It was inspired by a completely unrelated game with the most bad-ass of names – the only part of it that lived on.
 
-### The Team
+## The Core Developers
+
 * Ilkka Hakkarainen
-* Antti Hakkarainen
 * Arto Klemola
-
-### Early-Bird Beta Testers
-* Michael Huff
 * Teijo Virta
+
+## Honorary Developers
+
+* Antti Hakkarainen
+* Pertti Myllys

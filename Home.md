@@ -8,5 +8,3 @@ There are many ways to bring glory and wealth to your kingdom. Gathering resourc
 
  depending on their cunning strategy or just by fool's luck.
 * squander
-# More
-During Character Power Phase the Active Player may exile a Character Card from one's Treasury or Court and thus activate its Ultimate Power. Subsequently, any Passive Player may play a Character Card in similar way.
