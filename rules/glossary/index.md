@@ -44,6 +44,10 @@ The Player whose Turn it is.
 
 The Players whose turn it isn't.
 
+### Dealer
+
+The Player with the Initiative Badge.
+
 ### Character Power Phase
 
 A phase when Character Cards can be played and Emblems activated.

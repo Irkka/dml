@@ -1,6 +1,6 @@
 ## Global Events
 
-### Events
+### Global Event Types
 
 #### 🂲-🂹 Decadence
 
