@@ -8,3 +8,5 @@ There are many ways to bring glory and wealth to your kingdom. Gathering resourc
 
  depending on their cunning strategy or just by fool's luck.
 * squander
+
+## About the Master Rules Wiki

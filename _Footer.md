@@ -1,1 +1,1 @@
-[Home](/Home) | [Rules](/rules/index) | [Cards](/cards/index) | [Cheatsheet](/Cheatsheet) | [Contributors](/Contributors)
+[Home](/Home) | [Rules](/rules/index) | [Assets](/assets/index) | [Achievements](/meta/achievements) | [Contributors](/meta/contributors)
