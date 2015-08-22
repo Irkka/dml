@@ -1,4 +1,6 @@
-## Global Events
+## Global Event
+
+A Global Event card has an inherent Global Event Type and Global Event Scale Value. A Global Event modifies the Round properties in different ways. Each Global Event affects both the Players and the Market Place. The Global Event effects and their scope are resolved as instructed in the Rules Section.
 
 ### Global Event Types
 
