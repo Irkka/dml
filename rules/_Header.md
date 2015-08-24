@@ -1,3 +1,3 @@
 # Rules
 
-[[include:/_Footer]]
+[[include:/rules/_Footer]]
