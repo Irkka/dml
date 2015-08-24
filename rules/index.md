@@ -1,10 +1,10 @@
 # The Rules
 
-In the game of Dragon's Money Laundering a deck of regular playing cards is used to represent various events, commodities and characters in the city of Four Corners. The two six-sided dice introduce another level of probabilities and model the uncertain nature of doing business, thus guiding Players to generally play it safe but to take the high risk when the odds are in their favor.
+In the game of Dragon's Money Laundering a deck of regular playing cards is used to represent various events, commodities and characters in the city of Four Corners. The two six-sided dice introduce an another level of probabilities and model the uncertain nature of doing business in the Realm, thus guiding Players to generally play it safe but to take the high risk when the odds are in their favor.
 
 ## Structure
 
-The Rules are divided in to logical sections that build on each other and a general Glossary for quick reference source. The main rules sections are [Card Reference](/rules/card_reference/index), Gameplay and Game Modes, and  -- despite the interlinked wiki nature of the rulebook -- are recommended to be read in the given order.
+The Rules are divided in to logical sections that build on each other. Additionally, the Rules section is supplied with a general Glossary for quick reference source. The main rules sections are [Card Reference](/rules/card_reference/index), Gameplay and Game Modes, and -- despite the interlinked wiki nature of the rulebook -- are recommended to be read in the given order on the first time.
 
 [Card Reference](/rules/card_reference/index) introduces the Players to how Dragon's Money Laundering handles the cards of a regular playing cards deck in its own unique way.
 

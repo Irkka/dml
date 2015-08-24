@@ -1,17 +1,14 @@
-# Dragon's Money Laundering – *A game of great cunning and treachery*
-
 *Dear Billy,*
 
 Look how you've grown, m'boy. Seems like yesterday when you we're still selling cattle at the Outpost market square. Yet, it has become time for you to travel to Four Corners, the crown jewel of the Realm, where the borders of great kingdoms meet. In there battles are not fought by steel but by gold and cunning. At the ever-buzzing Grand Market Place of Four Corners precious commodities of the Realm tirelessly change hands. In there eager men and noble women acquire and forfeit great fortunes.
 
 There are many ways to bring glory and wealth to your kingdom. Gathering resources and honest trading are but a single way to achieve your goals. Whether your schemes are cunning enough or fortune has favored your trading you just might gain total control of a specific resource. It has been rumored...
 
- depending on their cunning strategy or just by fool's luck.
 * squander
 
 ## About the Master Rules Wiki
 
-The Master Rules Wiki is the authoritative source of the latest Dragon's Money Laundering rules. In a sense, it's a living rulebook that gets ever better. It is used as the source to build each implementation of rules medium, be them web pages, man pages, books, or so on.
+The Master Rules Wiki is the authoritative source of the latest Dragon's Money Laundering rules. In a sense, it's a living rulebook that gets ever better. It is used as the source to build each implementation of rules medium, be them web pages, man pages, books, and so on.
 
 All the project related assets are also part of the repository and as such are subject to change.
 
