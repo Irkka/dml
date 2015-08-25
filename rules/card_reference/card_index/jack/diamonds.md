@@ -1,4 +1,4 @@
-#### 🃋 Tithe Embezzeler
+# 🃋 Tithe Embezzeler
 
 **All in, or all for nothing.**
 

@@ -1,4 +1,4 @@
-#### 🂽 Pampered Heiress
+# 🂽 Pampered Heiress
 
 **But m'lady – that might cost us half the Kingdom.**
 

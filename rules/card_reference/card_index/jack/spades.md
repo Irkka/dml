@@ -1,4 +1,4 @@
-#### 🂫 Grand Inquisitor
+# 🂫 Grand Inquisitor
 
 **This is HERESY!**
 

@@ -1,4 +1,4 @@
-### The Queens – Character, Emblem
+# Queens – Character, Emblem
 
 Emblem Static Bonus: 2
 Victory Points: -

@@ -1,8 +1,10 @@
-#### 🃟 Foreign Merchant - Global Event
+# Jokers
+
+## 🃟 Foreign Merchant - Global Event
 
 If a Joker is drawn at any time from the Global Event Deck it is shuffled with the Dragon's Hoard and a Dragon's Egg from the Dragon's Nest – if available – and then placed to the Market Place as a new separate Black Market.
 
-#### 🃏 Thief - Character
+## 🃏 Thief - Character
 
 **High risk, but the prize.**
 

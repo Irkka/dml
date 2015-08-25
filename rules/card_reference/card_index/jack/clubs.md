@@ -1,4 +1,4 @@
-#### 🃛 Rogue Jester
+# 🃛 Rogue Jester
 
 **Beware, or he'll make a fool out of you.**
 

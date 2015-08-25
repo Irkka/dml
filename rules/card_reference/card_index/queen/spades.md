@@ -1,4 +1,4 @@
-#### 🂭 Dragon Empress of Khitamar
+# 🂭 Dragon Empress of Khitamar
 
 **One word and empires crumble.**
 
