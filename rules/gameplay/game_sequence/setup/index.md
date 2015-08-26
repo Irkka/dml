@@ -1,4 +1,4 @@
-# Setup
+# Setup Phase
 
 1. Resolve which Player obtains the Initiative Badge by a dice roll according to Initiative Badge Roll-Off rule.
 *. Extract all Merchant Kings, all Resources of face value of 2 or 3 and Dragon's Eggs from the Global Event Deck.
