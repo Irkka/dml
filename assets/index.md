@@ -1,6 +1,6 @@
 # Assets
 
-Here can be found different kind of material for the game, some which is useful for mere gameplay or art and music to spark the mood for chill &/or manic gaming experiences. 
+Here can be found different kind of material for the game, some which is useful for mere gameplay, and art & music to spark the mood for chill &/or manic gaming experiences. 
 
 ##Includes:##
 
