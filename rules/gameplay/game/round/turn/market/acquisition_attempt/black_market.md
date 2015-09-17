@@ -1,4 +1,8 @@
-###### Black Market Sequence
+# Black Market
+
+Acquisition Attempts that target Black Market Stocks are slightly different from regular Acquisition Attempts.
+
+## Black Market Sequence
 
 The default Target Value of any Black Market is 7.
 

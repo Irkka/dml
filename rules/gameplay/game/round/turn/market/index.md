@@ -12,14 +12,16 @@ By default each Player has a one Market Action and a one Black Market Action per
 
 ### Market Action
 
-  * The Active Player may choose to forfeit his/her Market Phase and subsequently gain an additional Black Market Phase
-  * If the Player doesn't forfeit his/her Market Phase, initiate Market Sequence
- 
-1. Active Player chooses any number of Resources from any one Stock in the Market Place.
-2. Initiate Acquisition Attempt Sequence
+Market Action is the standard method of interaction with the game. It allows Players to declare Acquisition Attempts on any available Stock or Emblem.
+
+The Active Player may choose to substitute one or more Market Actions to Black Market Actions. The Active Player may decide to declare this at any point of the Turn.
+
+Grants one Acquisition Attempt on Stocks or Emblems.
 
 ### Black Market Action
 
-3. Black Market Phase
-  * The Active Player may choose to forfeit his/her Black Market Phase
-  * If the Player doesn't forfeit his/her Black Market Phase, initiate Black Market Sequence
+Black Market Action is a minor action compared to a regular Market Action. It allows Players to declare Acquisition Attempts only to Black Market Stocks.
+
+The Active Player may choose to forfeit one's Black Market Action.
+
+Grants one Acquisition Attempt on Black Market Stocks.
