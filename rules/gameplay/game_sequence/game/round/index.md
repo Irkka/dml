@@ -11,7 +11,7 @@ A Round consists of Global Event Phase, all Player's Turn Sequences and Round En
 ### Global Event Phase
 
 1. Draw a card from the Global Event Deck
-  1.a If a Player can't draw a crad from the Global Event Deck, immediately initiate Game Ending Sequence.
+  1.a If a Player can't draw a card from the Global Event Deck, immediately initiate Game Ending Sequence.
   1.b If a Global Event class card is drawn, place it in to the Global Event Zone.
   1.c If a non-Global Event class card is drawn, put it in to the Dragon's Hoard.
 2. Resolve Global Event Zone contents according to Global Event Rule.
