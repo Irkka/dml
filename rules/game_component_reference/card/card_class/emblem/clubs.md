@@ -2,4 +2,4 @@
 
 ## Attributes
 
-### Emblem Power Bonus
+### Vantage Bonus

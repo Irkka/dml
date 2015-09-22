@@ -16,15 +16,15 @@ Any Player may declare an Acquisition Attempt on any one Emblem card played in a
 
 All Emblems have Face Value of 10 and their Resource Type is the printed suite on the card. The Acquisition Attempt is resolved as explained in the Gameplay section.
 
-### Emblem Buying Bonus
+### Buying Bonus
 
-Each Emblem has an Emblem Buying Bonus attribute. The Emblem Buying Bonus attribute is subtracted from the Target Value of any Acquisition Attempt of the corresponding Resource Type as the Emblem itself. These bonuses stack with each other.
+Each Emblem has an Buying Bonus attribute. The Buying Bonus attribute is subtracted from the Target Value of any Acquisition Attempt of the corresponding Resource Type as the Emblem itself. These bonuses stack with each other.
 
-### Emblem Power Bonus
+### Vantage Bonus
 
-Each Resource Type has a shared Emblem Power Bonus. Anytime Players play any one of the three possible Emblems of a suite, they'll receive the same stacking bonus.
+Each Resource Type has a shared Vantage Bonus. Anytime Players play any one of the three possible Emblems of a suite, they'll receive the same stacking bonus.
 
-The possible Emblem Power Bonuses are:
+The possible Vantage Bonuses are:
 
 * Dragon Shield
 * hearts
@@ -33,12 +33,12 @@ The possible Emblem Power Bonuses are:
 
 #### Tens and Jacks
 
-Tens and Jacks provide an Emblem Buying Bonus of 1 on their corresponding Resource Type.
+Tens and Jacks provide an Buying Bonus of 1 on their corresponding Resource Type.
 
 #### Queens
 
-Queens provide an Emblem Buying Bonus of 2 on their corresponding Resource Type.
+Queens provide an Buying Bonus of 2 on their corresponding Resource Type.
 
 ## N.B.
 
-The Emblem card has to be played into the Emblem Zone before the owning Player can utilize its Emblem Buying Bonus or Emblem Power Bonus attributes.
+The Emblem card has to be played into the Emblem Zone before the owning Player can utilize its Buying Bonus or Vantage Bonus attributes.
