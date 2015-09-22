@@ -2,6 +2,6 @@
 
 ## Attributes
 
-### Emblem Power Bonus
+### Vantage Bonus
 
 The controlling Player receives an extra Market Action.
