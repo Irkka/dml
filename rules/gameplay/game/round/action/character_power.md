@@ -1,6 +1,6 @@
 # Character Power Phase
 
-## Character Power Phase Sequence
+## Character Power Sequence
 
 1. Starting with the Player who has the Initiative Badge, the Player may play any number of Character Powers and/or Emblems on top of the Character Power Stack. Repeat this step counter-clockwise for each Player.
 2. If any other Player played any cards on top of the Character Power Stack, each other Player has a new opportunity to respond to it and play another set of cards on top of it. This procedure is repeated until each Player, save the one who played the last card, has passed his turn to play any new cards.

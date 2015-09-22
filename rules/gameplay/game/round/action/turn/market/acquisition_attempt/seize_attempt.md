@@ -1,6 +1,8 @@
-# Seize Attempt
+# Seize Attempt Phase
 
-The Player who's awarded the Seize Attempt can join in the Bidding Action of the Acquisition Attempt as explained in its sequence.
+Every Acquisition Attempt towards Stocks on the Marketplace provoke opportunities for Seize Attempts. Seize Attempts are actions that Passive Players can declare against the declared Acquisition Attempt.
+
+The Player who's awarded the Seize Attempt can join in the Bidding Phase of the Acquisition Attempt as explained in its sequence.
 
 ## Seize Attempt Sequence
 
@@ -10,4 +12,4 @@ The Player who's awarded the Seize Attempt can join in the Bidding Action of the
 
 ### N.B.
 
-Skullduggery and bluffing is highly encouraged during Seize Actions.
+Skullduggery and bluffing is highly encouraged during Seize Attempts.

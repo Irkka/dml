@@ -2,7 +2,7 @@
 
 At the start of each Round the game mechanics change slightly to provide tactical opportunities.
 
-## Event Phase Sequence
+## Event Sequence
 
 1. Draw a card from the Event Deck
   1.a If a Player can't draw a card from the Event Deck due to it being depleted, immediately trigger End Stage base sequence.

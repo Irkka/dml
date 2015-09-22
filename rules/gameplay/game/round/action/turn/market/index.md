@@ -4,7 +4,7 @@ Market Phase is when the Active Player gets to perform actions and Passive Playe
 
 By default each Player has a one Market Action and a one Black Market Action per Turn. This number, however, can be modified by many in-game methods.
 
-## Market Phase Sequence
+## Market Sequence
 
 0. (Any extra Market Actions granted by rules)
 1. Market Action
@@ -14,7 +14,7 @@ By default each Player has a one Market Action and a one Black Market Action per
 
 Market Action is the standard method of interaction with the game. It allows Players to declare Acquisition Attempts on any available Stock or Emblem.
 
-The Active Player may choose to substitute one or more Market Actions to Black Market Actions. The Active Player may decide to declare this at any point of the Turn.
+The Active Player may choose to substitute a Market Action for a Black Market Action. The substitution can be declared at any time before an Acquisition Attempt is declared and for each Market Action separately. However, all actions resolve in the given order of the Market Sequence.
 
 Grants one Acquisition Attempt on Stocks or Emblems.
 
