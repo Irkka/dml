@@ -1,23 +1,19 @@
-*Dear Billy,*
+# About the Master Rules Wiki
 
-Look how you've grown, m'boy. Seems like yesterday when you we're still selling cattle at the Outpost market square. Yet, it has become time for you to travel to Four Corners, the crown jewel of the Realm, where the borders of great kingdoms meet. In there battles are not fought by steel but by gold and cunning. At the ever-buzzing Grand Market Place of Four Corners precious commodities of the Realm tirelessly change hands. In there eager men and noble women acquire and forfeit great fortunes.
+The Master Rules Wiki is the authoritative source of the latest Dragon's Money Laundering rules. In a sense, it's a living rulebook that gets ever better and thus is never *truly finished*. It is used as the source to build each implementation of rules medium, be them web pages, man pages, books, or so on.
 
-There are many ways to bring glory and wealth to your kingdom. Gathering resources and honest trading are but a single way to achieve your goals. Whether your schemes are cunning enough or fortune has favored your trading you just might gain total control of a specific resource. It has been rumored...
+In Dragon's Money Laundering Master Rules Wiki nothing is set in stone. The project is being developed in lean and agile manner and as such all rules and assets are subject to change. When new and improved versions of old rules or assets arise, they'll be reviewed and incorporated to the Master Rules Wiki repository, thus superseding the previous iteration. However, complete rulesets and new assets are bundled into official major releases, so that the casual player doesn't have to be constantly referring to nightly rules builds.
 
-* squander
+## Structure
 
-## About the Master Rules Wiki
+The Master Rules Wiki is divided into three logical domains. Each of them are intertwined with each other on the project level, yet they are their own separate whole. They assist various developers to locate project artifacts relevant to their abilities without confusion.
 
-The Master Rules Wiki is the authoritative source of the latest Dragon's Money Laundering rules. In a sense, it's a living rulebook that gets ever better. It is used as the source to build each implementation of rules medium, be them web pages, man pages, books, and so on.
+The *[Assets](/assets/index)* domain contains all artwork, music, screenplays and the like used throughout the project build processes and marketing. They are developed by volunteers willing to make Four Corners come to life and subsequently leave their own unique impression to it.
 
-All the project related assets are also part of the repository and as such are subject to change.
+The *[Meta](/meta/index)* section is a collection of project-related meta data. This meta data usually doesn't fall into either of the other main sections: Assets or Rules. Most importantly the Meta section gives credit to where credit is due.
 
-### Structure
+The *[Rules](/rules/index)* section is naturally where the game itself resides. All major changes to the rules need to be thoroughly play-tested. The latest official game release will be built from a certain point in the version control tree, but experimental rules can be accessed from nightly rules builds and directly from the Master Rules Wiki repository.
 
-The Master Rules Wiki is divided in to three logical main sections. Each of them are intertwined with each other on the project level, yet they are their own separate whole. They assist various developers to locate project artifacts relevant to their abilities without confusion.
+## Contributing
 
-The *[Assets](/assets/index)* section contain all artwork, music, screenplays and the like used throughout the project build processes and marketing. They are developed by volunteers willing to make Four Corners come to life and subsequently leave their own unique impression to it.
-
-The *[Meta](/meta/index)* section is a collection of project-related meta data. Most importantly it gives credit where credit is due.
-
-The *[Rules](/rules/index)* section is naturally where the game itself resides.
+The Master Rules Wiki and related assets are all developed by volunteers. No monetary compensation can be expected, or in fact even be considered at this point of development. All contributors whose assets are merged to the mother project  will however be awarded a visible position on Contributors page. For more information about contributing, copyright and licensing please refer to the project README.md or the Dragon's Money Laundering Developer's Wiki.
