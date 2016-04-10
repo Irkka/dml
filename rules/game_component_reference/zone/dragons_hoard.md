@@ -1,10 +1,10 @@
 # Dragon's Hoard
 
-Due to the limited amount of cards available, they need to be recycled throughout the game. Dragon's Hoard Zone is basically a discard pile with a single distinctive trait: the cards in the Dragon's Hoard are still in the game as opposed to the Exile. Thus those cards can be brought back to the game as Resource and Character cards available to Players. 
+Due to the limited amount of cards available, they need to be recycled throughout the game. Dragon's Hoard Zone is basically a discard pile with a single distinctive trait: the cards in the Dragon's Hoard are still in the game as opposed to the Exile zone. Thus those cards can be brought back to the game as Resource and Character cards available to Players.
 
 ## Location
 
-It is a face-up pile of cards next to the Global Event Deck and Dragon's Nest, diagonally opposite to the Active Global Event.
+It is a face-up pile of cards next to the Event Deck and Dragon's Nest, diagonally opposite to the Active Event.
 
 ## N.B.
 
