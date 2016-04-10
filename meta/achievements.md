@@ -16,18 +16,18 @@ Besides personal satisfaction the Achievements have another key functionality. T
 
 * *Reduce to ashes*: Place to dragon eggs in tresuries of two different player and initiate Dragon Siege.
 
-* *Don't count your chickens before they're hatched*: Stop another player benefiting from the CUP of Archduchess of Avarice.
+* *Don't count your chickens before they're hatched*: Stop another player benefiting from the Power of Archduchess of Avarice.
 
-* End of thieving: With the CUP of Harlot Queen, Exile two thieves from the game.
+* End of thieving: With the Power of Harlot Queen, Exile two thieves from the game.
 
-* *One man's scrapings are another man's treasury*: With the CUP of Tithe Embezzeler, achieve a winning condition.
+* *One man's scrapings are another man's treasury*: With the Power of Tithe Embezzeler, achieve a winning condition.
 
-* Joke's on you: With the CUP of Rogue Jester, Reverse the CPS in a way that you foil the plans of other players in this manner
+* Joke's on you: With the Power of Rogue Jester, Reverse the Powers in a way that you foil the plans of other players in this manner
   1. Counter Harlot Queen
   2. Counter Grand Inquisitor
   3. Counter Dragon Empress of Khitamar
 
-* No honor among thieves: With a CUP of thief steal another thief.
+* No honor among thieves: With a Power of thief steal another thief.
 
 ### In Game Achievements
 
