@@ -1,6 +1,6 @@
 # Dragon's Money Laundering – Game Developer's README
 
-Dragon's Money Laundering is an open-source card game developed on a platform of regular deck of playing cards with two jokers included. It is actively developed by a team of Core Developers and an international team of volunteer artists. The Core Rules Wiki is currently copyright by Ilkka Hakkarainen, save for all related assets that are yet to be licensed. For more information about licensing Dragon's Money Laundering and project-related assets for any purpose - commercial or non-commercial alike -, please contact the Core Developer team.
+Dragon's Money Laundering is an open-source card game developed on a platform of regular deck of playing cards with two jokers included. It is actively developed by a team of Core Developers and an international team of volunteer artists. The Core Rules Wiki is currently copyright by Ilkka Hakkarainen, save for all related assets that are yet to be licensed. For more information about licensing Dragon's Money Laundering and project-related assets for any purpose - commercial or non-commercial alike -, please contact the Core Developer team at <dragonsmoneylaundering@gmail.com>.
 
 ## How to contribute?
 
@@ -12,9 +12,9 @@ DML project has been divided into to separate, but intertwined, domains: rules, 
 
 #### Rules
 
-The main purpose of this project is to enable seasoned board-/cardgamers to have a high quality game engine easily available wherever they are. The Master Rules Wiki has to be solid and unambiguous. Global Events, Character Ultimate Powers and Emblem Power Bonuses have to be balanced and the game sequence has to be robust enough to handle heavy rules abuse from power gamers and weird deck configurations, whether due to poorly shuffled decks or plain chance.
+The main purpose of this project is to enable seasoned board-/cardgamers to have a high quality game engine easily available wherever they are. The Master Rules Wiki has to be solid and unambiguous. Events, Character Powers and Vantage Bonuses have to be balanced and the game sequence has to be robust enough to handle heavy rules abuse from power gamers and weird deck configurations, whether due to poorly shuffled decks or plain chance.
 
-Change suggestions to the rules can be issued in many ways. Easiest way is to simply contact one of the Core Developers. However, if you want to have your name in the git history or otherwise adopt the workflow used by the Core Development Team, you can refer to the technical contribution guide below.
+Change suggestions to the rules can be issued in many ways. Easiest way is to simply contact one of the Core Developers at <dragonsmoneylaundering@gmail.com>. However, if you want to have your name in the git history or otherwise adopt the workflow used by the Core Development Team, you can refer to the technical contribution guide below.
 
 **Domain administrator:** *[Ilkka Hakkarainen](https://github.com/Irkka)*
 
@@ -36,9 +36,9 @@ Meta is the catch-all domain that encompasses everything from achievements to we
 
 ### Technical Contribution Guide
 
-Contributing directly to the project happens by using git version control system. However, the underlying technologies used in the game Master Rules Wiki and assets may vary a lot. The Master Rules Wiki is built on top of gollum wiki engine, but the assets may utilize whatever application the artist has deemed worthy.
+Contributing directly to the project happens by using git version control system. However, the underlying technologies used in the game Master Rules Wiki and assets may vary a lot. The Master Rules Wiki is built using a collection of gulp tasks, but the assets may utilize whatever application the artist has deemed worthy.
 
-Dragon's Money Laundering Core Development team prefers the use of free and open-source utilities and content created by using them always takes precedence.
+Dragon's Money Laundering Core Development Team prefers the use of free and open-source utilities, and content created by using them always takes precedence.
 
 #### Submitting artwork or other assets and writing enhancements to the Master Rules Wiki
 
