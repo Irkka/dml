@@ -18,7 +18,7 @@ The possible Card Class tuples can be formed by using these base classes. If a r
 * Dragon Egg
 * Emblem
 * Foreign Merchant
-* Global Event
+* Event
 * Guild House
 * Merchant King
 * Resource

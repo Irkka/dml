@@ -1,7 +1,7 @@
 # Emblem
 
-Emblem Zones are personal to each Player. They indicate which Emblem Static Bonuses and Emblem Power Bonuses are available to which Player. Emblems played into Emblem Zones are vulnerable to Acquisition Attempts by other Players.
+Emblem zones are personal to each Player. They indicate which Buying Bonuses and Vantage Bonuses are applied to which Player. Emblems played into Emblem zones are vulnerable to Acquisition Attempts by other Players.
 
 ## Location
 
-Emblem Zone is a set of face-up cards with Emblem Card Class played in front of the owning Player next to the Merchant King Zone.
+Emblem zone is a set of face-up cards with Emblem Card class played in front of the owning Player next to the Merchant King zone.

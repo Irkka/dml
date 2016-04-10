@@ -4,11 +4,11 @@ Look how you've grown, m'boy. Seems like yesterday when you we're still selling 
 
 There are many ways to bring glory and wealth to your kingdom. Gathering resources and honest trading are but a single way to achieve your goals.
 
-Good luck!
+Good luck, Billy!
 
 # The Rules
 
-Welcome to Four Corners, your highness, the grand stage of all future acquisitions to be. All possible scenarios that take place in Four Corners happen within the boundaries of these rules. By heeding to these rules anyone with an access to a deck of playing cards and two six-sided dice can start playing Dragon's Money Laundering immediately.
+Welcome to Four Corners, Billy, the grand stage of all future acquisitions to be. For a small fee I can explain the rules of acquisition. All possible scenarios that take place in Four Corners happen within the boundaries of these rules. By heeding to these rules anyone with an access to a deck of playing cards and two six-sided dice can start playing Dragon's Money Laundering immediately.
 
 In the game of Dragon's Money Laundering a deck of regular playing cards is used to represent various events, commodities and characters in the city of Four Corners. In addition to the deck of playing cards, the two six-sided dice introduce an another level of probabilities. They model the uncertain nature of doing business in the Realm, thus guiding Players to generally play it safe but to take the high risk when the odds are in their favor.
 
@@ -20,8 +20,8 @@ The Rules are divided into logical sections that build on each other. Additional
 
 [Gameplay](/rules/gameplay/index) utilizes the keywords introduced in Game Component Reference and outlines a repeatable flowchart-like process of gameplay sequences. By following these sequences to the point, anyone can start playing Dragon's Money Laundering immediately.
 
-After the players have a firm grasp of the Game Component Reference and Gameplay sections they can expand on it by reading about [Game Modes](/rules/game_modes/index). Game Modes modify the Core Rules to fit into different situations such as playing with newbies and also 2-player games.
+After the players have a firm grasp of the Game Component Reference and Gameplay sections they can expand on it by reading about [Game Modes](/rules/game_modes/index). Game Modes modify the Core Rules to fit into different situations such as playing with new players or 3 players.
 
 [Glossary](/rules/glossary/index) defines every new concept and keyword that Dragon's Money Laundering Master Rules Wiki introduces.
 
-Dragon's Money Laundering requires minimal amount of equipment for maximal bang. [Required Equipment](/rules/required_equipment) lists the minimum requirements to play the game with four players and the core rules. Any changes to these requirements fall into the scope of [Game Modes](/rules/game_modes/index).
+Dragon's Money Laundering requires minimal amount of equipment for maximal bang. [Required Equipment](/rules/required_equipment) lists the minimum requirements to play the game with four players. Any changes to these requirements fall into the scope of [Game Modes](/rules/game_modes/index).

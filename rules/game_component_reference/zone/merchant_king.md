@@ -1,6 +1,6 @@
 # Merchant King
 
-Merchant King Zone is personal to each Player.
+Merchant King zone is personal to each Player.
 
 Players should keep one's own Merchant King card a secret.
 

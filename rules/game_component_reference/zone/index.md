@@ -6,15 +6,15 @@ Refer to the Quick Reference printout sheet for the correct positions of the Zon
 
 The playing area in Dragon's Money Laundering is divided into 10 Zones:
 
-* Active Global Event
-* Character Ultimate Power Stack
+* Active Event
 * Dragon's Hoard
 * Dragon's Nest
 * Emblem
 * Exile
-* Global Event Deck
+* Event Deck
 * Marketplace
 * Merchant King
+* Stack
 * Treasury
- 
+
 All interactions with the listed Zones are explained in Gameplay section.

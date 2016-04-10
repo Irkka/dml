@@ -10,4 +10,4 @@ Exile should be located in a safe place where no unsuspecting oaf can have acces
 
 ## N.B.
 
-Any non-implicit information about cards in Exile are off-limits to all Players. For example, Players know which Character cards have been moved there after their Character Ultimate Powers have resolved, but for example in a 3-player game the Players may not verify the missing Merchant Kings identity, when the card is put face down in to Exile.
+Any non-implicit information about cards in Exile are off-limits to all Players. For example, Players know which Character cards have been moved there after their Character Powers have resolved, but for example in a 3-player game the Players may not verify the missing Merchant Kings identity, when the card is put face down in to Exile.
