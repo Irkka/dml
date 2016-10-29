@@ -1,5 +1,7 @@
 # Gameplay
 
+[Gameplay](/rules/gameplay/index) utilizes the keywords introduced in Game Component Reference and outlines a repeatable flowchart-like process of gameplay sequences. By following these sequences to the point, anyone can start playing Dragon's Money Laundering immediately.
+
 A game of Dragon's Money Laundering flows through series of sequences and subsequences much like a computer program with nested subroutine calls. Some of them are repeated for each Player, and some might trigger unexpectedly due to dice rolling or drawing a specific card from the Event Deck. Every step during these sequences happens in series, so there is no ambiguity on what resolves and when. Any unexpected subsequences will return to their spawn-point and the game will continue from the next step of the spawning parent sequence. 
 
 The game table is divided into Zones that different game rules, events and actions interact with. Zones provide a clean uncluttered gaming area and meaning to regular playing cards that reside within them.
@@ -45,7 +47,7 @@ Dragon's Money Laundering is divided into three main game stages:
 * Setup
 * Game
 * End
-  
+
 Each one of these stages has a base sequence that consists of subsequences that themselves might consist of other subsequences. When the base sequence runs to completion or is interrupted by an appropriate trigger the game moves on to a new Stage.
 
 ### Phase

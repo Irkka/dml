@@ -1,5 +1,7 @@
 # Game Modes
 
+After the players have a firm grasp of the Game Component Reference and Gameplay sections they can expand on it by reading about [Game Modes](/rules/game_modes/index). Game Modes modify the Core Rules to fit into different situations such as playing with new players or 3 players.
+
 Dragon's Money Laundering is aiming to be a highly adaptible game engine that can accommodate all flavors of Players. Even though the Core Rules are  primarily created for hardcore board-/cardgamers by making a few tweaks the game complexity can be adjusted for teaching purposes.
 
 ## Quickstart
