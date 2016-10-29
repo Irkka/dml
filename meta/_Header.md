@@ -1,3 +1,0 @@
-# Meta
-
-[[include:/_Footer]]

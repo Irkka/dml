@@ -1,0 +1,22 @@
+{
+  "name": "dml",
+  "version": "0.0.1",
+  "description": "Dragon's Money Laundering: Core Rules and Assets",
+  "main": "README.md",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Irkka/dml.git"
+  },
+  "keywords": [
+    "card_game"
+  ],
+  "author": "Ilkka Hakkarainen",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/Irkka/dml/issues"
+  },
+  "homepage": "https://github.com/Irkka/dml#readme"
+}
