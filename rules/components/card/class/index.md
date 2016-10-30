@@ -14,11 +14,11 @@ Classes grant attributes to the cards and the attributes can have unique values 
 
 The possible Card Class tuples can be formed by using these base classes. If a rule matches any member of the class tuple of a card, it is triggered or the card is considered valid at that point.
 
-* Character
+* Power
 * Dragon Egg
 * Emblem
-* Foreign Merchant
 * Event
 * Guild House
 * Merchant King
 * Resource
+* Special
