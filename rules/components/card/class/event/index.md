@@ -32,15 +32,19 @@ The different Event types are:
 * Carnival of Coin – Character
 * Grand Opening – Guild
 
-## 🂫 🃛 🂻 🃋 🂭 🃝 🂽 🃍 🃟 🃏 Carnival of Coin
+## 🂫🃛🂻🃋🂭🃝🂽🃍🃟🃏 Carnival of Coin
 
 ### Player Effect
 
 Each Player has an extra Action during their Turn's Market Phase.
 
-# 🂪,🃚,🂺,🃊 The Grand Opening
+## 🂪🃚🂺🃊 Grand Opening
 
-The Grand Opening is equivalent to Carnival of Coin with an additional Player Effect.
+The Grand Opening is equivalent to Carnival of Coin except with an additional Player Effect.
+
+### Player Effect
+
+Each Player has an extra Action during their Turn's Market Phase.
 
 Players may declare Acquisition Attempts on the Event card itself. If a Player acquires the Guild, the rest of the Round proceeds as if it would be a regular Carnival of Coin.
 
