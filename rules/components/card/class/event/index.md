@@ -1,44 +1,85 @@
-# Global Event
+# Event
 
-Global Event cards model the shifting and unpredictable economical and sociopolitical climate in Four Corners. Global Event cards modify game Rounds in unpredictable ways and give advantage to different Players. Taking the risks at the right time, when others can't react to them is a key ability of any Player.
+Events model the shifting and unpredictable economical and sociopolitical climate in Four Corners. Each Event modifies a single Round of game in unpredictable ways and gives advantage to Players with fewer cards in their Hands.
 
-Each Global Event Type has two distinct effect attributes: a Player Effect and a Market Effect. Player Effects favor Player's with less cards in their Treasury and gives them better chance at getting back in to the game, whereas Market Effects can manipulate Face Values of individual cards or make Acquisition Attempts safer or more difficult to execute.
+Each Event type has two distinct effects: a Player Effect and a Market Effect. Player Effects favor Players with less cards in their Hands, whereas Market Effects temporarily change buying mechanics of the game for each Player equally. Player Effect resolves selectively, Market Effect is unconditional to all Players.
 
-Player Effects are structured as follows:
+## Player Effect
 
-1. The Global Event card states what effect applies on each Player
-2. Any Player that has less cards than the current Global Event Face Value ignores the Player Effect
+If the number of cards in a Player's Hand is more than or equal to the Event cards Value, they suffer the effect.
+
+Player Effects resolve at the start of the Round and their effects last until the end of the Round, regardless if the affected Player's Hand size changes.
+
+## Market Effect
 
 Market Effects are structured as follows:
 
-1. The Global Event card states what effect is applied on the Resource cards in play.
-2. Each Global Event Type has a unique effect, but the range is always inclusive to the Global Event Face Value. The Global Event affects Resource cards with Face Value less or more than -- depending on the Global Event Type --, or equal to the Global Event Face Value.
+1. Event card's type states what effect is applied to the Commodity cards in the Marketplace
+2. Event card's Value attribute is then compared to each Commodity in the Marketplace or those that enter the Marketplace that Round
 
-Player Effect resolves selectively, Market Effect is unconditional to all Players.
+Market Effects are static and are continuously checked.
 
-Player Effects resolve at the start of the Round and their effects last until the end of the Round, regardless if Players' Treasury sizes change.
+## Suit
 
-## Attributes
+Each of the four Commodity suits has a corresponding Event type; the Event type is indicated by the printed suit of the card. Additionally, there are two special Event types for Guilds and Character cards that have no Market Effects.
 
-### Global Event Type
+The different Event types are:
 
-There are four basic Global Event Types and a one catch-all special Global Event Type; there is one for each suites number cards from 2 to 9 and a one separate for tens, picture cards and jokers.
+* FCCC Regulations – Spades
+* The Hated People – Clubs
+* Decadence – Hearts
+* Tax Relief – Diamonds
+* Carnival of Coin – Character
+* Grand Opening – Guild
 
-The Global Event Type is indicated by the printed suite of the Global Event card.
+## 🂫 🃛 🂻 🃋 🂭 🃝 🂽 🃍 🃟 🃏 Carnival of Coin
 
-The different basic Global Event Types are:
+### Player Effect
 
-* Decadence
-* Tax Relief
-* Contraband Crackdown
-* Marauders
+Each Player has an extra Action during their Turn's Market Phase.
 
-The special Global Event Type is:
+# 🂪,🃚,🂺,🃊 The Grand Opening
 
-* Carnival of Coin
+The Grand Opening is equivalent to Carnival of Coin with an additional Player Effect.
 
-The respective Global Event Types of different Global Event cards are listed in the Card Index. Resolving Global Event cards is explained in the Gameplay section.
+Players may declare Acquisition Attempts on the Event card itself. If a Player acquires the Guild, the rest of the Round proceeds as if it would be a regular Carnival of Coin.
 
-### Global Event Face Value
+## 🂢-🂩 FCCC Regulations
 
-Global Event cards with a basic Global Event Type have an inherent Face Value that is the printed value on the card. This value indicates how powerful the Global Event is and who and what Resource cards the Global Effect card affects.
+### Player Effect
+
+Player can't make any Seize Attempts.
+
+### Market Effect
+
+Players can use only Primary and Secondary Buying Commodities with Value less than or equal to the Event cards Value.
+
+## 🃒-🃙 The Hated People
+
+### Player Effect
+
+Player discards a card at random.
+
+### Market Effect
+
+All Commodities with Value less than or equal to the Event cards Value receive a +2 modifier to their Value.
+
+## 🂲-🂹 Decadence
+
+### Player Effect
+
+Player can't play any Powers or Emblems.
+
+### Market Effect
+
+Players can use only Primary and Secondary Buying Commodities with Value more than or equal to the Event cards Value.
+
+## 🃂-🃉 Tax Relief
+
+### Player Effect
+
+Player can't make Acquisition Attempts on Black Markets
+
+### Market Effect
+
+All Commodities with Value more than or equal to the Event cards Value receive a -2 modifier to their Value.
