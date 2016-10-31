@@ -1,5 +1,0 @@
-# Clubs
-
-## Attributes
-
-### Vantage Bonus
