@@ -1,25 +1,24 @@
-# Setup Stage
+# Setup
 
-Setup Stage encompasses everything the Players need to do before starting a game of Dragon's Money Laundering. After executing the Setup Sequence properly everything is ready to loop through the sequences established in the Game Stage.
+Setup Stage encompasses everything the Players need to do before starting a game of Dragon's Money Laundering.
 
-## Setup Sequence
+## Sequence
 
-1. Resolve which Player obtains the Initiative Badge according to the Initiative Badge Roll-Off rule.
-2. Extract all Merchant Kings, all Resources of Face Value of 2 or 3 and Dragon Egg cards from the Event Deck.
-3. Place all four Dragon Eggs into the Dragon's Nest.
-4. Randomly stack all twos and threes extracted from the Event Deck into four face-down piles consisting of a one 2 and a one 3 each. 
-5. Randomly allocate one face down Merchant King to each Player starting counter-clockwise with the Player who has the Initiative Badge.
-6. Starting counter-clockwise from the Player with the Initiative Badge each Player may choose one of the Resource piles of twos and threes, and put it into their Treasury.
-7. Draw cards from the Global Event Deck according to Restock Rule as explained in Turn Sequence. 
+1. Resolve which Player obtains the Dealer Token as instructed in the Dealer Token Roll-Off rule
+2. The Dealer extracts all Merchant Kings, all Commodities with Value 2 or 3 and all Dragon Egg cards from the Deck
+3. The Dealer places the Dragon Eggs into the Dragon's Nest
+4. Starting counter-clockwise from the Dealer each Player is dealt randomly a Merchant King card in Front of them
+4. Starting counter-clockwise from the Dealer each Player is dealt randomly one of each of the two different Values of Commodities, 2 and 3, that form their initial Hand
+5. Seed the Marketplace as instructed in the Restock rule
 
 ## Specific Rules
 
-### Initiative Badge Roll-Off
+### Dealer Token Roll-Off
 
-The Player that happens to have the dice starts the roll-off in counter-clockwise order. The Player that rolls the highest result with two dice gets the Initiative Badge.
+The Player who happens to have the dice starts the Dealer Token Roll-Off.
 
-If any number of Players are tied for the highest result, they will repeat the roll-off until the Initiative Badge position is resolved.
+In counter-clockwise order each Player rolls the dice and the highest result is awarded the Dealer Token. In case of tied results, the process is repeated until the a definite result is attained.
 
-If any Player rolls Dabo!, the Player may re-roll both the dice.
+If a Player rolls 'Dabo!', the Player may re-roll the dice.
 
-If any Player rolls 'Woot! Woot!', immediately interrupt Initiative Badge Roll-Off and that Player receives the Initiative Badge.
+If a Player rolls 'Woot!', that Player is immediately awarded the Dealer Token and the Dealer Token Roll-Off ends.
