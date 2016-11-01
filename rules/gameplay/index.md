@@ -1,5 +1,7 @@
 # Gameplay
 
+**"Skulduggery and bluffing are highly encouraged during gameplay"**
+
 The Gameplay section outlines all possible game sequences and how the game progresses from the start to finish. Conditional checks and most importantly a well-shuffled Deck alter the flow of sequences to create unique gameplay experiences on each play.
 
 ## Prerequisites
