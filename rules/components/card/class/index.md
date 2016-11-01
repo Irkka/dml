@@ -16,11 +16,20 @@ Each non-Merchant King and non-Dragon Egg card has an Event type attribute assoc
 
 All Character cards have Event type of Carnival of Coin.
 
-#### Guild
+#### Guild ⚒
 
 All Guild cards have Event type of Grand Opening.
 
 #### Commodity
+
+Each Commodity suit has a designated Primary Buying Commodity suit and Secondary Buying Commodity suit. Together these attributes form the so called Wheel of Profit, where every Commodity suit can be bought with one of the others.
+
+| Commodity suit | Primary Buying Commodity | Secondary Buying Commodity |
+|:--------------:|:------------------------:|:--------------------------:|
+|      Iron ♠    |          Spice ♢         |           Slaves ♡         |
+|      Wood ♣    |           Iron ♠         |           Spice ♢          |
+|     Slaves ♡   |           Wood ♣         |            Iron ♠          |
+|      Spice ♢   |          Slaves ♡        |            Wood ♣          |
 
 All non-Guild Commodities have Event type that's indicated by the card's suit.
 
