@@ -1,4 +1,4 @@
-# Victory Conditions
+# Victory Conditions ✌
 
 There are many ways to win a game of Dragon's Money Laundering. All of them require greed and cunning.
 
