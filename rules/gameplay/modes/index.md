@@ -26,3 +26,15 @@ Quickstart game removes the following elements from the game:
 * Player Effects of Events
 
 When the Players are done learning the core mechanics, it's time to unleash the dragons and the characters in the Full Game!
+
+## I See Fire
+
+I See Fire mode is aimed at hardened DML Players. It introduces new mechanics that make the game even more punishing.
+
+### Hustled!
+
+If a Player fails a Visit Black Market roll, they lose a randomly picked card from their Hand into the selected Black Market.
+
+### I See Fire
+
+If a Player has any Dragon Eggs in their Hand and insufficient Shield Vantage Bonuses during a Dragon Siege, that Player's Merchant King is put face down into Exile and all their Commodities are put into the Discard Pile. That Player is then removed from the game.
