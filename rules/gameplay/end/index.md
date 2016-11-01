@@ -1,27 +1,28 @@
-# End Stage
+# End
 
-The game can end in three different ways that indicate the method of deciding the winner. When starting the End Stage, the key is to determine what triggered it.
+The game ends when a trigger shifts the game to End Stage. The game can end in three different ways that each indicate the method of deciding the winner.
 
-## End Sequence
+## Sequence
 
-1. Determine what triggered End Stage
+1. Determine what triggered the End Stage
 2. Follow the appropriate sequence
-  a. If the game ended due to drawing from an empty Global Event Deck, proceed with Victory Point Sequence
-  b.  If the game ended due to a Player achieving Monopoly victory condition, proceed with Monopoly Sequence
-  c. If the game ended due to a Player achieving the Ultimate Victory victory condition, proceed with Ultimate Victory Sequence
+  a. If the Dealer attempted to draw an Event from a depleted Deck, proceed with Victory Point Sequence
+  b. If a Player has declared a Monopoly, proceed with Monopoly Sequence
+  c. If a Player has declared being the Father of Dragons, proceed with Father of Dragons Sequence
 
 ### Victory Point Sequence
 
-1. Remove all non-Resource and non-Dragon Egg cards from Players' Treasuries and Emblem Zones
-2. Using the remaining cards in Treasuries and Emblem Zones calculate the total Victory Points achieved by each Player separately. Apply modifiers and bonuses accordingly
-3. The Player with the most Victory Points is declared winner. In the case of a tie no one wins
+1. Players reveal their Merchant Kings
+2. Remove all non-Commodity and non-Dragon Egg cards from the gaming area
+3. Each player tallies the total Victory Points yielded by their remaining cards. Players apply their Merchant King's Desired Resource multiplier and Guild Commodity Bonuses accordingly
+4. The Player with the most Victory Points is declared winner. Ties are resolved as instructed in Victory Conditions section.
 
 ### Monopoly Sequence
 
-1. Verify the Treasury of the Player that declared Monopoly
-2. The Player that achieved Monopoly victory condition is declared winner
+1. Verify the Hand of the Player that declared Monopoly
+2. The Player that achieved Monopoly is declared winner
 
-### Ultimate Victory Sequence
+### Father of Dragons Sequence
 
-1. Verify the Treasury of the Player that declared Ultimate Victory
-2. The Player that achieved Ultimate Victory victory condition is declared winner
+1. Verify the Hand of the Player that declared being the Father of Dragons
+2. The Player that achieved Father of Dragons is declared winner
