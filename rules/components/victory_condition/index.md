@@ -4,13 +4,17 @@ There are many ways to win a game of Dragon's Money Laundering. All of them requ
 
 ## Victory Points
 
-When the Deck is completely depleted and the Dealer would have to draw a new Event card, the game ends.
+The game comes to a natural end when the Dealer attempts to draw an Event card from a depleted Deck. 
 
 At this point the Players reveal their Merchant King cards – and thus their Secret Desired Resource –, after which the Players remove all non-Resource or non-Dragon Egg cards from their Hands and Fronts. Those cards yield no Victory Points.
 
 First the Players apply their Secret Desired Resource modifiers and Guild Bonuses, and then tally their Victory Point totals from the remaining Resource and Dragon Egg cards. This includes any Guilds played in Front of the Player.
 
 The Player with the highest score will be declared winner.
+
+### Ties
+
+If two or more Players have the exact same Victory Point total, the Player with more Dragon Eggs is the winner. Furthermore, if the Players have an equal amount of Dragon Eggs in their Hand, no one wins.
 
 ### Victory Point Counting System
 
