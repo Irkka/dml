@@ -12,13 +12,13 @@ Woot! and Wyvern Eyes effects are resolved after resolving the effects of the tr
 
 Rolls during the Setup don't trigger any game sequences.
 
-## 🁳-🂋 Dabo!
+## Dabo! ⚁⚁ -⚄⚄
 
 'Dabo!' is triggered when a Player rolls double twos, threes, fours or fives. The triggering Player may immediately choose to re-roll the dice in hope of an alternative result. Notably, the Player may choose to re-roll even if the initial roll would have succeeded.
 
 It is customary to shout 'Dabo!' out loud when 'Dabo!' is triggered.
 
-## 🂓 Woot!
+## Woot! ⚅⚅
 
 'Woot!' is triggered when a Player rolls double sixes. Notably, 'Woot!' can't be re-rolled.
 
@@ -28,7 +28,7 @@ It is customary to shout 'Dabo!' out loud when 'Dabo!' is triggered.
 
 It is customary to shout 'Woot! Woot!' out loud and wave your hands above your head when 'Woot!' is triggered.
 
-## 🁫 Wyvern Eyes
+## Wyvern Eyes ⚀⚀
 
 Wyvern Eyes is triggered when a Player rolls double ones. Notably, Wyvern Eyes can't be re-rolled.
 
