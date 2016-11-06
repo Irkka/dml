@@ -1,20 +1,20 @@
 # Contributing
 
-All Pull Request have to meet these minimum requirements before being accepted to the master repository.
-
 The Core Developer team prefers the use of free and open-source utilities, and content created by using them always takes precedence. All assets have to be modifiable without having to buy expensive software licenses.
+
+Core Developers recommend at least the following free software packages: GIMP, Inkscape, Blender and Scribus.
 
 ## Techinal step-by-step guide
 
-Dragon's Money Laundering project uses git version control system to manage multiple parallel workers. If the contributor wants their name in the git history or use the official issue tracker, they can follow these steps.
+Dragon's Money Laundering project uses git version control system to manage multiple parallel workers. If a contributor wants their name in the git history or to use the official [issue tracker](https://github.com/Irkka/dml/issues), they can follow these steps.
 
 ### Reporting issues
 
-If you find something wrong with the project and you don't have the time or willingness to patch it yourself, please inform us and we'll attempt to fix it.
+If you find something wrong with the project and you don't have the time or willingness to patch it yourself, please inform us and we'll attempt to fix it. The [issue tracker](https://github.com/Irkka/dml/issues) is the optimal choice for the job, but other methods are supported as well.
 
 #### Issue tracker
 
-1. Navigate to the [Dragon's Money Laundering project issue tracker](https://github.com/Irkka/dml/issues) provided by GitHub
+1. Navigate to the project's [issue tracker](https://github.com/Irkka/dml/issues) at GitHub
 2. Create a new issue
 3. Label the issue accordingly
 4. Describe the issue in necessary detail
@@ -30,15 +30,15 @@ If you want your name written in the version control history of the project, you
 
 #### Rules enhancements, artwork or other assets
 
-1. Fork the [Dragon's Money Laundering repository](https://github.com/Irkka/dml) from GitHub to your own Github account.
+1. Fork the [Dragon's Money Laundering repository](https://github.com/Irkka/dml) from GitHub to your own GitHub account.
 2. Clone your repository to your local computer
 3. Make your suggested changes on a feature branch.
-4. Push the changes to Github
+4. Push the changes to GitHub
 5. Create a Pull Request
 
 ## Style
 
-Cohesive style across the domains makes the project much more easier to navigate through.
+All Pull Request have to meet these minimum requirements before being accepted to the master repository. Cohesive style across the domains makes the project much more easier to navigate through for other developers.
 
 ### Git
 
@@ -46,7 +46,7 @@ Cohesive style across the domains makes the project much more easier to navigate
 
 Every commit message has to adhere to the guidelines found at [tpope's blog post](http://tbaggery.com/2008/04/19/a-note-about-git-commit-messages.html).
 
-Additionally, refer to [Github's article on their issue tracker](https://guides.github.com/features/issues/), and especially how to use references and mentions to notify other developers and close and refer to related issues from commit messages.
+Additionally, refer to GitHub's [article](https://guides.github.com/features/issues/) on their issue tracker, and especially how to use references and mentions to notify other developers and to close and refer to related issues from commit messages.
 
 ### Rules and other text
 
