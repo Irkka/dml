@@ -1,26 +1,28 @@
 {
-  "name": "dml",
-  "version": "0.0.1",
-  "description": "Dragon's Money Laundering: Core Rules and Assets",
-  "main": "README.md",
-  "scripts": {
-    "gulp": "gulp"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Irkka/dml.git"
-  },
-  "keywords": [
-    "card_game"
-  ],
-  "author": "Ilkka Hakkarainen",
-  "bugs": {
-    "url": "https://github.com/Irkka/dml/issues"
-  },
-  "homepage": "https://github.com/Irkka/dml#readme",
-  "devDependencies": {
-    "gulp": "^3.9.1",
-    "gulp-concat": "^2.6.0",
-    "gulp-markdown-pdf": "^4.0.0"
-  }
+	"name": "dml",
+	"version": "0.0.1",
+	"description": "Dragon's Money Laundering: Core Rules and Assets",
+	"main": "README.md",
+	"scripts": {
+		"gulp": "gulp"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/Irkka/dml.git"
+	},
+	"keywords": [
+		"card_game"
+	],
+	"author": "Ilkka Hakkarainen",
+	"bugs": {
+		"url": "https://github.com/Irkka/dml/issues"
+	},
+	"license": "SEE LICENSE IN LICENSE",
+	"homepage": "https://github.com/Irkka/dml#readme",
+	"devDependencies": {
+		"gulp": "^3.9.1",
+		"gulp-concat": "^2.6.0",
+		"gulp-markdown-pdf": "^4.0.0"
+	},
+	"private": true
 }
