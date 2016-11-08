@@ -1,4 +1,4 @@
-# Dice Rolling
+# Dice Rolling 🎲🎲
 
 Dice rolling is used to determine the outcome of Player actions and other game situations that require randomness.
 
@@ -16,7 +16,7 @@ Rolls during the Setup don't trigger any game sequences.
 
 'Dabo!' is triggered when a Player rolls double twos, threes, fours or fives. The triggering Player may immediately choose to re-roll the dice in hope of an alternative result. Notably, the Player may choose to re-roll even if the initial roll would have succeeded.
 
-It is customary to shout 'Dabo!' out loud when 'Dabo!' is triggered.
+It is customary to shout 'Dabo!' out loud when 'Dabo!' is triggered. 🗣
 
 ## Woot! ⚅⚅
 
@@ -24,9 +24,9 @@ It is customary to shout 'Dabo!' out loud when 'Dabo!' is triggered.
 
 'Woot!' is an automatic success regardless of what value it's checked against. Notably, during the Setup's Dealer Token resolution any Player who rolls 'Woot!' is immediately awarded the Dealer Token and the remaining Players are denied the chance to roll.
 
-'Woot!' result will trigger Foreign Merchant Sequence after the triggering roll's effect has been resolved.
+'Woot!' result will trigger Foreign Merchant👳 Sequence after the triggering roll's effect has been resolved.
 
-It is customary to shout 'Woot! Woot!' out loud and wave your hands above your head when 'Woot!' is triggered.
+It is customary to shout 'Woot! Woot!' out loud and wave your hands above your head when 'Woot!' is triggered. 🗣 
 
 ## Wyvern Eyes ⚀⚀
 
@@ -34,6 +34,6 @@ Wyvern Eyes is triggered when a Player rolls double ones. Notably, Wyvern Eyes c
 
 Wyvern Eyes is an automatic failure regardless of what value it's checked against. Notably, during the Setup's Dealer Token resolution, if each Player rolls Wyvern Eyes, they are thereby denied of all access to the game until they learn how to roll dice properly.
 
-Wyvern Eyes result will trigger the Dragon Siege Sequence after the triggering roll's effect has been resolved.
+Wyvern Eyes result will trigger the Dragon Siege🐲 Sequence after the triggering roll's effect has been resolved.
 
 Depending on the Player's situation, it is customary to groan in pain or snigger gleefully when Wyvern Eyes is triggered.

@@ -1,4 +1,4 @@
-# Buying ⛂⛃⛂
+# Buying 💎
 
 Buying Commodities and taking over opponents' Emblems are the two main activities of the game.
 
@@ -12,11 +12,11 @@ Players can adjust the Value they have to roll against by commiting Commodities 
 
 ## Sequence
 
-1. Declaration
-2. Seize
-3. Resolution
+1. Declaration ✍
+2. Seize 👊
+3. Resolution 👌
 
-### Declaration
+### Declaration ✍
 
 The Active Player has to first declare to everyone what Commodities or Emblems they're attempting to acquire. That Player separates those cards from their Stocks or opponent's Front and places them visible to everyone. This is called a Declaration and its Value is the sum of the Value attributes of the cards it consists of.
 
@@ -28,7 +28,7 @@ A Player may place any number of Buying Commodities in order to adjust the total
 
 A Declaration's Value can be modified in many ways even before paying any Buying Commodities. Some Events can make certain Commodities cheaper or more expensive and all Emblems provide a flat reduction to a Declaration's Value of their respective Commodity suit. Notably, the Emblems only reduce the Declaration's Value once, but the Events adjust the Values of each Commodity separately.
 
-### Seize
+### Seize 👊
 
 After the Active Player has announced a Declaration each Passive Player now has the opportunity to Seize the Commodities from under the Active Player's nose. The act of Seizing happens by adjusting the Declaration's Value upwards, thus making it more difficult for the Active Player to roll that result.
 
@@ -46,7 +46,7 @@ The Passive Player who was awarded the Seize opportunity loses their commited Co
 2. After all Passive Players have either put a card down or passed their Seize opportunity, they all reveal their cards simultaneously.
 3. The Player with the Buying Resources of the highest total Value is awarded the Seize opportunity. Other Passive Players return their cards to their Hands.
 
-### Resolution
+### Resolution 👌
 
 Before finally resolving the Declaration its Value can still be subject to change before the actual rolling happens.
 
@@ -72,9 +72,9 @@ As soon as one of the Players passes their turn to commit, the Active Player mov
 
 Resolving a Declaration boils down to rolling the dice. 
 
-If the Active Player's roll result is equal to or exceeds the the total adjusted Value of the Declaration, the Active Player puts the cards of the Declaration into their Hand.
+If the Active Player's roll result is equal to or exceeds the the total adjusted Value of the Declaration, the Active Player puts the cards of the Declaration into their Hand. 🖒
 
-If the Active Player's roll result is less than the total adjusted Value of the Declaration, there can be two possible outcomes. If no Seize opportunities were awarded, the Declaration's cards are returned to the Marketplace by the Dealer. However, If a Seize opportunity was awarded, the Passive Player puts the cards of the Declaration into their Hand instead.
+If the Active Player's roll result is less than the total adjusted Value of the Declaration, there can be two possible outcomes. If no Seize opportunities were awarded, the Declaration's cards are returned to the Marketplace by the Dealer. However, If a Seize opportunity was awarded, the Passive Player puts the cards of the Declaration into their Hand instead. 🖓
 
 In each case all commited Buying Commodities are then placed to their matching Stocks in the Marketplace by the Dealer.
 

@@ -1,16 +1,16 @@
-# Event
+# Event 🌐
 
 Events model the shifting and unpredictable economical and sociopolitical climate in Four Corners. Each Event modifies a single Round of game in unpredictable ways and gives advantage to Players with fewer cards in their Hands.
 
 Each Event type has two distinct effects: a Player Effect and a Market Effect. Player Effects favor Players with less cards in their Hands, whereas Market Effects temporarily change buying mechanics of the game for each Player equally. Player Effect resolves selectively, Market Effect is unconditional to all Players.
 
-## Player Effect
+## Player Effect 👥
 
 If the number of cards in a Player's Hand is more than or equal to the Event cards Value, they suffer the effect.
 
 Player Effects resolve at the start of the Round and their effects last until the end of the Round, regardless if the affected Player's Hand size changes.
 
-## Market Effect
+## Market Effect 🏷
 
 Market Effects are structured as follows:
 
@@ -26,19 +26,19 @@ Each of the four Commodity suits has a corresponding Event type; the Event type 
 The different Event types are:
 
 * FCCC Regulations – Spades
-* The Hated People – Clubs
+* The Hated People – Clubs 🕲
 * Decadence – Hearts
 * Tax Relief – Diamonds
 * Carnival of Coin – Character
 * Grand Opening – Guild
 
-## 🂫🃛🂻🃋🂭🃝🂽🃍🃟🃏 Carnival of Coin
+## 🂫🃛🂻🃋🂭🃝🂽🃍🃟🃏 Carnival of Coin 🎭
 
 ### Player Effect
 
 Each Player has an extra Action during their Turn's Market Phase.
 
-## 🂪🃚🂺🃊 Grand Opening
+## 🂪🃚🂺🃊 Grand Opening 🏛
 
 The Grand Opening is equivalent to Carnival of Coin except with an additional Player Effect.
 
@@ -48,7 +48,7 @@ Each Player has an extra Action during their Turn's Market Phase.
 
 Players may declare Acquisition Attempts on the Event card itself. If a Player acquires the Guild, the rest of the Round proceeds as if it would be a regular Carnival of Coin.
 
-## 🂢-🂩 FCCC Regulations
+## 🂢-🂩 FCCC Regulations ✋
 
 ### Player Effect
 
@@ -58,7 +58,7 @@ Player can't make any Seize Attempts.
 
 Players can use only Primary and Secondary Buying Commodities with Value less than or equal to the Event cards Value.
 
-## 🃒-🃙 The Hated People
+## 🃒-🃙 The Hated People 🕲
 
 ### Player Effect
 
@@ -68,7 +68,7 @@ Player discards a card at random.
 
 All Commodities with Value less than or equal to the Event cards Value receive a +2 modifier to their Value.
 
-## 🂲-🂹 Decadence
+## 🂲-🂹 Customs Crackdown 🛃
 
 ### Player Effect
 
@@ -78,7 +78,7 @@ Player can't play any Powers or Emblems.
 
 Players can use only Primary and Secondary Buying Commodities with Value more than or equal to the Event cards Value.
 
-## 🃂-🃉 Tax Relief
+## 🃂-🃉 Merchant Union 🕊
 
 ### Player Effect
 

@@ -1,4 +1,4 @@
-# End
+# End ✋
 
 The game ends when a trigger shifts the game to End Stage. The game can end in three different ways that each indicate the method of deciding the winner.
 

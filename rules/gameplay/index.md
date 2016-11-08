@@ -1,4 +1,4 @@
-# Gameplay
+# Gameplay ⮔
 
 **"Skulduggery and bluffing are highly encouraged during gameplay"**
 

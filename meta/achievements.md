@@ -1,4 +1,4 @@
-# Achievements
+# Achievements 🎖
 
 Dragon's Money Laundering is supplied with a set of achievements to make the gaming experience even more engaging. They are difficult in nature but enable bragging rights for whomever manages to unlock them.
 

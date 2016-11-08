@@ -7,3 +7,5 @@ The Player with the Dealer Token is simply called the Dealer.
 The Dealer's responsibility is to regulate the gameplay sequences, draw cards from the Deck, create Black Markets, and place cards into the Discard Pile, Dragon's Nest and Exile.
 
 The Dealer performs the Setup stage of the game.
+
+Whenever a game mechanic would randomly remove a card from the Dealer's Hand the previous Dealer will do the work, unless otherwise stated.

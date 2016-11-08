@@ -1,16 +1,16 @@
-# Modes
+# Modes 🎛
 
 Dragon's Money Laundering engine can accommodate different variations of the game. Modes modify the rules to fit different situations, e.g. playing with 3 players.
 
-## Full Game
+## Full Game ⛶
 
 A 4-Player game by the rules written in this document. Dragon's Money Laundering as it was intended.
 
-## 3-Player Smackdown
+## 3-Player Smackdown 🔱
 
 The game plays exactly as the Full Game, except during the Setup the undealt Merchant King is put face down into Exile, and the undealt starting Commodities are put to the Discard Pile. Players can't unlock any achievements from 3-Player Smackdown.
 
-## Market Mayhem(Quickstart)
+## Market Mayhem(Quickstart) 🔰
 
 Learning Dragon's Money Laundering in one sitting can be a daunting undertaking. Market Mayhem is the perfect 'summer cottage' version of Dragon's Money Laundering. The Quickstart rules teach the basic Marketplace and Event mechanics.
 
@@ -27,7 +27,7 @@ Quickstart game removes the following elements from the game:
 
 When the Players are done learning the core mechanics, it's time to unleash the dragons and the characters in the Full Game!
 
-## I See Fire
+## I See Fire 🔥
 
 I See Fire mode is aimed at hardened DML Players. It introduces new mechanics that make the game even more punishing.
 

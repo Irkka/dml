@@ -4,7 +4,7 @@ After the Setup, the Game itself is ready to begin. The Game is played until a t
 
 The Game consists of an undetermined amount of Rounds that in turn consist of Turns. Each Player is guaranteed an equal amount of Turns assuming the Game doesn't end before the Deck being depleted.
 
-## Round ♽
+## Round ↺
 
 A Round consists of four different sequential Phases: Event, Turn, Power and Cleanup.
 
@@ -145,3 +145,23 @@ At the end of each Round the Dealer Token is transferred to the next Player. The
 #### Sequence
 
 1. The Dealer passes the Dealer Token to the next Player in counter-clockwise direction
+
+## Special
+
+There are two special phases that can occur unexpectedly any time a certain dice roll result happens, a certain card is drawn from the Deck or a certain Power is played.
+
+All Special phases are resolved immediately after resolving the triggering action.
+
+### Dragon Siege 🐲
+
+Dragon Siege
+
+#### Sequence
+
+1. Each Player reveals their Hands
+2. For each Player that has a Dragon Egg in their Hand the Dealer checks the other conditions
+	2.a. If that Player has sufficient Shield Vantage bonuses in relation to the number of Dragon Eggs in their Hand, nothing happens
+	2.b. If that Player has insufficient Shield Vantage bonuses in relation to the number of Dragon Eggs in their Hand, that Player enters the step 3
+3. For each relevant Player, the Dealer first removes all Dragon Eggs from their Hand and places them into the Dragon's Nest. Then the Dealer proceeds to randomly select half of their remaining Hand cards rounded up and places them into the Discard Pile.
+
+### Foreign Merchant 👳

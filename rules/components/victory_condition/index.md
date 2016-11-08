@@ -1,14 +1,14 @@
-# Victory Conditions ✌
+# Victory Conditions 🏆
 
 There are many ways to win a game of Dragon's Money Laundering. All of them require greed and cunning.
 
-## Victory Points
+## Victory Points ✌
 
 The game comes to a natural end when the Dealer attempts to draw an Event card from a depleted Deck. 
 
-At this point the Players reveal their Merchant King cards – and thus their Secret Desired Resource –, after which the Players remove all non-Resource or non-Dragon Egg cards from their Hands and Fronts. Those cards yield no Victory Points.
+At this point the Players reveal their Merchant King cards – and thus their Desired Commodities –, after which the Players remove all non-Resource or non-Dragon Egg cards from their Hands and Fronts. Those cards yield no Victory Points.
 
-First the Players apply their Secret Desired Resource modifiers and Guild Bonuses, and then tally their Victory Point totals from the remaining Resource and Dragon Egg cards. This includes any Guilds played in Front of the Player.
+First the Players apply their Desired Commodity modifiers and Guild Bonuses, and then tally their Victory Point totals from the remaining Resource and Dragon Egg cards. This includes any Guilds played in Front of the Player.
 
 The Player with the highest score will be declared winner.
 
@@ -26,7 +26,7 @@ Counting Victory Points can be cumbersome without proper technique – a systema
 3. Apply Guild Bonus on each applicable stack
 4. Sum up each stack's total
 
-## Monopoly
+## Monopoly 💰
 
 If at any point during the game a Player has all the Resource cards from 2 to 9 of the same type in their Hand, that Player may immediately declare a Monopoly. Notably, the Resources can be of any type as long as they all share that type. Also, Guilds are not required for declaring a Monopoly.
 
@@ -34,7 +34,7 @@ When a Monopoly is declared the Player reveals their Hand. If the Player indeed 
 
 Victory Points are not counted and the Player who achieved Monopoly will be declared winner.
 
-## Father of Dragons
+## Father of Dragons 🐉
 
 If at any point during the game a Player has all four Dragon Eggs in their Hand, that Player may immediately declare themselves the Father of Dragons.
 
