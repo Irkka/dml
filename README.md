@@ -1,4 +1,4 @@
-# Dragon's Money Laundering – Game Developer's README
+# Dragon's Money Laundering
 
 In Dragon's Money Laundering nothing is set in stone. As game developers we strive to make the end product the best it can be, and hence all game related rules and assets are subject to change. Whenever new and improved rules or assets arise, they'll be reviewed and incorporated to the master repository – thus superseding the previous iteration. These changes are then bundled into official and comprehensive major releases for the casual player.
 
